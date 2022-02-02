@@ -1,0 +1,12 @@
+b'[1, 1, 1, 0, 1]'
+
+
+b'model in practicemodels scored: <br>DATE: 02-Feb-2022 (13:11:50.795059), test score: 0.5714285714285715'
+
+
+b'<table border="1" class="dataframe">\n  <thead>\n    <tr style="text-align: right;">\n      <th></th>\n      <th>mean</th>\n      <th>std</th>\n      <th>median</th>\n      <th>count</th>\n      <th>nulls_pctg</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>lastmonth_activity</th>\n      <td>165.653846</td>\n      <td>284.033229</td>\n      <td>73.0</td>\n      <td>26.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>lastyear_activity</th>\n      <td>1502.923077</td>\n      <td>2192.644958</td>\n      <td>955.0</td>\n      <td>26.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>number_of_employees</th>\n      <td>26.884615</td>\n      <td>31.353886</td>\n      <td>14.0</td>\n      <td>26.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>exited</th>\n      <td>0.576923</td>\n      <td>0.503831</td>\n      <td>1.0</td>\n      <td>26.0</td>\n      <td>0.0</td>\n    </tr>\n  </tbody>\n</table>'
+
+
+b"\n    Running simple checks: <br> \n    broken dependencies: b'No broken requirements found.\\n' <br>\n    times to run ['ingestion.py', 'training.py'] = [0.4824577729959856, 1.0583430110054906]\n    "
+
+

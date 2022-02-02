@@ -1,0 +1,282 @@
+---INGESTION DATE: 01-Feb-2022 (17:30:04.168134)
+---ingesting data from practicedata
+---INGESTION DATE: 01-Feb-2022 (17:31:52.658023)
+---ingesting data from practicedata
+---INGESTION DATE: 01-Feb-2022 (17:32:49.917162)
+---ingesting data from practicedata
+---INGESTION DATE: 01-Feb-2022 (17:33:04.563025)
+---ingesting data from practicedata
+---INGESTION DATE: 01-Feb-2022 (17:34:19.041782)
+---ingesting data from practicedata
+---INGESTION DATE: 01-Feb-2022 (17:34:39.429197)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.010029852000000006----
+---INGESTION DATE: 01-Feb-2022 (17:34:55.747629)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.008838148999999962----
+---INGESTION DATE: 01-Feb-2022 (17:35:39.638528)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009439949000000003----
+---INGESTION DATE: 01-Feb-2022 (17:37:07.394737)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.010485583999999992----
+---INGESTION DATE: 01-Feb-2022 (18:24:50.728564)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.013300388000000052----
+---INGESTION DATE: 01-Feb-2022 (18:24:54.864972)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009239992999999946----
+---INGESTION DATE: 01-Feb-2022 (18:27:31.925210)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.01824277299999999----
+---INGESTION DATE: 01-Feb-2022 (18:27:50.410134)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009328000000000003----
+---INGESTION DATE: 01-Feb-2022 (18:27:54.297269)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009038425000000017----
+---INGESTION DATE: 01-Feb-2022 (18:33:00.575479)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.011427870000000007----
+---INGESTION DATE: 01-Feb-2022 (18:33:04.563401)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009039322999999988----
+---INGESTION DATE: 01-Feb-2022 (18:34:18.696098)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.00953840100000003----
+---INGESTION DATE: 01-Feb-2022 (18:34:22.624234)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.010083508000000019----
+---INGESTION DATE: 01-Feb-2022 (18:36:27.777722)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009712995999999974----
+---INGESTION DATE: 01-Feb-2022 (18:36:31.858720)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.008984807000000039----
+---INGESTION DATE: 01-Feb-2022 (18:37:35.785937)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.008820632999999967----
+---INGESTION DATE: 01-Feb-2022 (18:37:39.647026)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.008567033000000002----
+---INGESTION DATE: 02-Feb-2022 (09:06:08.173374)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.06518556499999995----
+---INGESTION DATE: 02-Feb-2022 (09:09:04.885223)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009863875999999994----
+---INGESTION DATE: 02-Feb-2022 (09:09:31.955341)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.013192063000000032----
+---INGESTION DATE: 02-Feb-2022 (09:11:15.236569)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.024667666000000033----
+---INGESTION DATE: 02-Feb-2022 (09:12:28.235628)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.012672317000000044----
+---INGESTION DATE: 02-Feb-2022 (09:15:33.785431)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009080217999999918----
+---INGESTION DATE: 02-Feb-2022 (09:15:37.747895)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009672856000000007----
+---INGESTION DATE: 02-Feb-2022 (09:16:52.968979)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.008734907999999986----
+---INGESTION DATE: 02-Feb-2022 (09:16:56.994246)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009411104999999975----
+---INGESTION DATE: 02-Feb-2022 (09:24:04.461632)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009587490999999948----
+---INGESTION DATE: 02-Feb-2022 (09:24:08.677510)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009180573000000025----
+---INGESTION DATE: 02-Feb-2022 (09:25:27.086677)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.01025875100000001----
+---INGESTION DATE: 02-Feb-2022 (09:25:31.251392)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.009182469000000026----
+---INGESTION DATE: 02-Feb-2022 (09:26:43.542373)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.019972883000000108----
+---INGESTION DATE: 02-Feb-2022 (09:26:51.255102)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.01959369600000005----
+---INGESTION DATE: 02-Feb-2022 (13:11:24.368325)
+---ingesting data from sourcedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/sourcedata
+name: dataset4.csv, rows: 15, columns: 5
+name: dataset3.csv, rows: 11, columns: 5
+combined data with  rows: 26, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.02083548099999999----
+---INGESTION DATE: 02-Feb-2022 (13:11:51.337183)
+---ingesting data from practicedata
+found 2 .csv files in /Users/francesca_sogaro/personal_repo/udacity_MLE_nanodegree_v2/nd0821-c4-starter/starter-file/practicedata
+name: dataset1.csv, rows: 17, columns: 5
+name: dataset2.csv, rows: 19, columns: 5
+combined data with  rows: 36, columns: 5
+final data with  rows: 26, columns: 5
+----process time: 0.017402864000000018----
